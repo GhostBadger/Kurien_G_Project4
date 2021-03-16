@@ -1,5 +1,5 @@
 ## Kurien_Georgey_Project1
-Project one of level two of the web development course.
+Project four of level two of the web development course.
 
 ### Prerequisites
 None.
@@ -8,7 +8,7 @@ None.
 Clone the project, <code>cd</code> to your directory/download, unzip the file, and run the index.html file.
 
 ### Purpose
-To display understanding of the new folder structure for level 2.
+To display understanding of media queries.
 
 ### License
 MIT
