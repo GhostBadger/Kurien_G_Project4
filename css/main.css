@@ -3,11 +3,7 @@
 	display: none;
 }
 
-/*images can scale or shrink, but not scale past actual dimensions*/
-body
-{
-	font-family: Helvetica, Arial, sans-serif;
-}
+
 
 .container
 {
