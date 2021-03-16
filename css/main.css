@@ -64,10 +64,6 @@ body
 		flex-direction: row;
 	}
 
-	.box
-	{
-		width: 25%;
-	}
 	.box1
 	{
 		background-color: blue;
@@ -88,41 +84,4 @@ body
 	}
 
 }
-
-
-@media screen and (max-width: 1140px) {
-
-	.container
-	{
-		display: flex;
-		flex-direction: row;
-	}
-
-	.box
-	{
-		width: 25%;
-	}
-	.box1
-	{
-		background-color: blue;
-	}
-	.box2
-	{
-		background-color: purple;
-	}
-	.box3
-	{
-		visibility: visible;
-		background-color: grey;
-	}
-	.box4
-	{
-		visibility: visible;
-		background-color: brown;
-	}
-
-
-}
-
-
 
